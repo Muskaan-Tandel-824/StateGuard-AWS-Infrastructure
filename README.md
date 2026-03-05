@@ -155,3 +155,6 @@ This setup reflects real-world DevOps practices used in organizations for:
 * Infrastructure automation
 * Team-based cloud management
 * Scalable cloud provisioning.
+
+##ScreenShots :
+![terraform init](screenshots/terraform-init.png)
