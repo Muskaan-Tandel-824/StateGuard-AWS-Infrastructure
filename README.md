@@ -158,3 +158,10 @@ This setup reflects real-world DevOps practices used in organizations for:
 
 ##ScreenShots :
 ![terraform init](screenshots/terraform-init.png)
+![terraform apply](screenshots/terra-apply1.png)
+![terraform apply](screenshots/terra-apply2.png)
+![ec2-creation](screenshots/ec2-creation.png)
+![AWS-Console dyanmodb](screenshots/dyanmodb-ss.png)
+![AWS-Console lock-table](screenshots/lock-table.png)
+![AWS-Console s3-bucket](screenshots/s3-ss.png)
+
