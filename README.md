@@ -28,6 +28,9 @@ The project includes:
 * Follow real DevOps infrastructure workflow
 
 ---
+## 🏗️ Architecture Diagram
+![Architecture](screenshots/architecture-stateguard.png)
+
 
 ## 🏗 Architecture Workflow
 
